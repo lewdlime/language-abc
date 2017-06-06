@@ -1,0 +1,13 @@
+".source.abc":
+  Tune:
+    prefix: "X:"
+    body: '''
+      
+      X:${1:1}
+      T:${2:Title}
+      M:${3:4}/${4:4}
+      L:1/8
+      K:${5:Key}
+      $6
+      
+    '''

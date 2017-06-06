@@ -1,0 +1,6 @@
+".source.abc, .source.fmt":
+  editor:
+    commentStart: "% "
+".source.postscript, .source.ps":
+  editor:
+    foldEndPattern: "\\*\\*/|^\\s*\\}"
